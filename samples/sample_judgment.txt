@@ -1,0 +1,34 @@
+SYNTHETIC SAMPLE FOR TESTING LAWLENS. This is a fictional judgment written for software testing; it is not a real case.
+
+IN THE SUPREME COURT OF INDIA
+CIVIL APPELLATE JURISDICTION
+CIVIL APPEAL NO. 1234 OF 2020
+STATE OF EXAMPLEPRADESH ... APPELLANT
+VERSUS
+RAJESH VERMA ... RESPONDENT
+
+JUDGMENT
+
+1. This appeal is directed against the judgment dated 12.03.2019 of the High Court, by which the order of dismissal of the respondent from service was set aside and he was directed to be reinstated with continuity of service.
+
+2. The respondent was appointed as a clerk in the Revenue Department in 2004. On 15.06.2015 a departmental inquiry was initiated against him on the allegation that he had accepted a sum of money for processing a mutation application. The inquiry officer submitted a report on 20.01.2016 holding the charge proved, and the disciplinary authority dismissed the respondent from service on 02.05.2016.
+
+3. The respondent filed a writ petition before the High Court. The learned Single Judge dismissed it. In intra-court appeal, the Division Bench allowed the appeal on the ground that the respondent had not been furnished a copy of the inquiry report before the punishment was imposed.
+
+4. The questions that arise for consideration are whether non-supply of the inquiry report vitiates the order of dismissal, and whether, in the absence of prejudice, the High Court was justified in directing reinstatement with continuity of service.
+
+5. Learned counsel for the appellant State submitted that the respondent participated in every stage of the inquiry and never asked for the report. It was contended that no prejudice was caused to him and that the charge rested on the testimony of two independent witnesses which was never shaken in cross-examination.
+
+6. Learned counsel for the respondent, on the other hand, submitted that service of the inquiry report is a mandatory requirement flowing from the principles of natural justice. He urged that an order passed in breach of this requirement is a nullity and that proof of prejudice is not required.
+
+7. We have heard learned counsel for the parties and perused the record.
+
+8. It is well settled that an employee must be given an opportunity to represent against the findings of the inquiry officer before the disciplinary authority imposes a penalty. In our opinion, the requirement flows from Article 311 of the Constitution and from the principles of natural justice, and this Court has repeatedly said so.
+
+9. At the same time, this Court has held that a breach of natural justice does not by itself render the order void. The employee must show that the omission has caused real prejudice to him. The mere fact that a copy of the report was not supplied does not, therefore, call for automatic interference.
+
+10. In the present case the respondent has not stated, either before the High Court or before us, what additional defence he would have taken had the report been supplied. The findings are based on the evidence of two independent witnesses. We find no perversity in those findings.
+
+11. The Division Bench, in our view, erred in treating the non-supply of the report as a nullity. The High Court also failed to consider that the respondent had accepted the findings of fact and had challenged only the procedure. Hence the direction to reinstate the respondent cannot be sustained.
+
+12. For the foregoing reasons, the appeal is allowed. The judgment dated 12.03.2019 of the Division Bench of the High Court is set aside and the order of dismissal dated 02.05.2016 is restored. There shall be no order as to costs.

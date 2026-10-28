@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+
+# datasets and downloads are never committed (re-downloaded by the notebook)
+data/*
+!data/.gitkeep
+*.zip
+
+# keep result tables, ignore bulky or temporary files
+results/*.tmp

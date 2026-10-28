@@ -1,0 +1,11 @@
+# LawLens: Module 1 (judgment summariser). Modules 2 and 3 will append their own lines.
+# On Colab, torch and numpy are already installed; the pins below are lower bounds, not exact versions.
+streamlit>=1.35
+pypdf>=4.0
+numpy>=1.24
+torch>=2.0
+transformers>=4.40
+sentence-transformers>=3.0
+rouge-score>=0.1.2
+bert-score>=0.3.13
+pytest>=7.0
